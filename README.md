@@ -59,10 +59,3 @@
   <h3>📊 My GitHub stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=IvanGuerreroFdez&show_icons=true&theme=radical" alt="GitHub stats" />
 </div>
-
-<div align="center">
-  <h3>🏆 My GitHub trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=IvanGuerreroFdez" alt="GitHub trophies" />
-  </a>
-</div>
